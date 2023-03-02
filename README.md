@@ -21,13 +21,13 @@ Live Link: https://heir-bnb-app.herokuapp.com/
 1. Clone this repository
 
    ```bash
-   https://github.com/pm24mcgi/heirbnb.git
+   https://github.com/OsvaldoSalomon/heirbnb.git
    ```
 
 2. Install dependencies
 
       ```bash
-      pipenv install --dev -r dev-requirements.txt && pipenv install -r requirements.txt
+      pipenv install --dev -r requirements.txt && pipenv install -r requirements.txt
       ```
 
 3. Create a **.env** file based on the example with proper settings for your
